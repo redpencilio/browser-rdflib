@@ -2,8 +2,8 @@
   "name": "rdflib-frontend",
   "version": "1.0.0",
   "description": "",
-  "main": "rdflib-fe.js",
-  "browser": "rdflib-fe.js",
+  "main": "rdflib-shim.js",
+  "browser": "rdflib-shim.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
