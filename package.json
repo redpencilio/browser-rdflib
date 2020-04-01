@@ -1,5 +1,5 @@
 {
-  "name": "rdflib-frontend",
+  "name": "browser-rdflib",
   "version": "1.0.0",
   "description": "",
   "main": "rdflib-fe.js",
@@ -7,6 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {"url": "https://github.com/redpencilio/browser-rdflib"},
+  "author": "Sergey Andreev",
   "license": "ISC"
 }
